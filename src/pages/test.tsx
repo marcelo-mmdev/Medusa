@@ -136,13 +136,7 @@ import {
             >
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
             </MEDIACONTENT>
-            <MEDIACONTENT
-              title={"SC CONFEC"}
-              subTitle={"Corte e Costura"}
-              img={"/img/favicon comeia.png"}
-            >
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            </MEDIACONTENT>
+            
           </Flex>
         }
       >
